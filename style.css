@@ -405,11 +405,16 @@ padding-right:2vw;
      padding-left:2vw;
      padding-right:2vw;
  }
+ #img_content_1 img{
+    width:35vw;
+    height:45vh;
+    margin-left:5vw;
+        }
  
 
    @media(max-width:1460px){
     #img_content_1 img{
-        width:45vw;
+        width:35vw;
             }
        #img_content_3 .card {
         width:19vw;
